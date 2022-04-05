@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Imersão Full Stack && Full Cycle
 
 Participe: https://imersao.fullcycle.com.br
@@ -30,8 +29,3 @@ Utilizamos Docker para que todos os serviços que utilizaremos fiquem disponíve
 - Criador dos tópicos a serem utilizados pelo Kafka
 - Confluent control center
 - ZooKeeper
-
- 
-=======
-# codepix
->>>>>>> 52bd87b0a69e9047688637211e70fcac94c1e24e
