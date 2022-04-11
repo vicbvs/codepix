@@ -16,9 +16,10 @@ limitations under the License.
 package cmd
 
 import (
-	"github.com/vicbvs/codepix/application/grpc"
-	"github.com/vicbvs/codepix/infrastructure/db"
 	"os"
+
+	"github.com/vicbvs/codepix/codepix/application/grpc"
+	"github.com/vicbvs/codepix/codepix/infrastructure/db"
 
 	"github.com/spf13/cobra"
 )

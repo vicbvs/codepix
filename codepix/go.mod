@@ -1,4 +1,4 @@
-module github.com/vicbvs/codepix
+module github.com/vicbvs/codepix/codepix
 
 go 1.15
 

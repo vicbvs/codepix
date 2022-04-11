@@ -16,11 +16,12 @@ limitations under the License.
 package cmd
 
 import (
+	"os"
+
 	ckafka "github.com/confluentinc/confluent-kafka-go/kafka"
 	"github.com/spf13/cobra"
-	"github.com/vicbvs/codepix/application/kafka"
-	"github.com/vicbvs/codepix/infrastructure/db"
-	"os"
+	"github.com/vicbvs/codepix/codepix/application/kafka"
+	"github.com/vicbvs/codepix/codepix/infrastructure/db"
 )
 
 // kafkaCmd represents the kafka command

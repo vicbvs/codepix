@@ -16,11 +16,12 @@ limitations under the License.
 package cmd
 
 import (
-	"github.com/spf13/cobra"
-	"github.com/vicbvs/codepix/domain/model"
-	"github.com/vicbvs/codepix/infrastructure/db"
-	"github.com/vicbvs/codepix/infrastructure/repository"
 	"os"
+
+	"github.com/spf13/cobra"
+	"github.com/vicbvs/codepix/codepix/domain/model"
+	"github.com/vicbvs/codepix/codepix/infrastructure/db"
+	"github.com/vicbvs/codepix/codepix/infrastructure/repository"
 )
 
 // fixturesCmd represents the fixtures command

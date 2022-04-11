@@ -2,8 +2,8 @@ package factory
 
 import (
 	"github.com/jinzhu/gorm"
-	"github.com/vicbvs/codepix/application/usecase"
-	"github.com/vicbvs/codepix/infrastructure/repository"
+	"github.com/vicbvs/codepix/codepix/application/usecase"
+	"github.com/vicbvs/codepix/codepix/infrastructure/repository"
 )
 
 func TransactionUseCaseFactory(database *gorm.DB) usecase.TransactionUseCase {

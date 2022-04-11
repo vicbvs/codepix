@@ -1,7 +1,7 @@
 package usecase
 
 import (
-	"github.com/vicbvs/codepix/domain/model"
+	"github.com/vicbvs/codepix/codepix/domain/model"
 )
 
 type PixUseCase struct {

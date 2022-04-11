@@ -6,9 +6,9 @@ import (
 	"net"
 
 	"github.com/jinzhu/gorm"
-	"github.com/vicbvs/codepix/application/grpc/pb"
-	"github.com/vicbvs/codepix/application/usecase"
-	"github.com/vicbvs/codepix/infrastructure/repository"
+	"github.com/vicbvs/codepix/codepix/application/grpc/pb"
+	"github.com/vicbvs/codepix/codepix/application/usecase"
+	"github.com/vicbvs/codepix/codepix/infrastructure/repository"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/reflection"
 )
