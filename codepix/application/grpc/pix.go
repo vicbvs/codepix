@@ -2,6 +2,7 @@ package grpc
 
 import (
 	"context"
+
 	"github.com/vicbvs/codepix/application/grpc/pb"
 	"github.com/vicbvs/codepix/application/usecase"
 )

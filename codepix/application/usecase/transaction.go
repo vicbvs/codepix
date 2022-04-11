@@ -2,8 +2,9 @@ package usecase
 
 import (
 	"errors"
-	"github.com/vicbvs/codepix/domain/model"
 	"log"
+
+	"github.com/vicbvs/codepix/domain/model"
 )
 
 type TransactionUseCase struct {
